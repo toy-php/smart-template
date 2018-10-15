@@ -1,0 +1,22 @@
+{
+  "name": "toy-php/smart-template",
+  "description": "Шаблон проекта для фреймворка smart",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Сейтумеров Мустафа",
+      "email": "seymus007@gmail.com"
+    }
+  ],
+  "require": {
+    "toy-php/smart": "^0.1.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "": [
+        "src/"
+      ]
+    }
+  }
+}
